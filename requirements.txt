@@ -1,0 +1,8 @@
+torch==1.11.0
+accelerate==0.10.0
+flask==2.1.2
+langchain==0.2.1
+transformers==4.20.1
+faiss-gpu  # or faiss-gpu if you are using NVIDIA GPUs
+streamlit==1.12.0
+sentence-transformers==2.2.0
